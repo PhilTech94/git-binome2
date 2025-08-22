@@ -5,3 +5,4 @@
 - Marrakech
 - Istanbul
 
+Ville : Paris
