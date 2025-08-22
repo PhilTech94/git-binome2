@@ -1,4 +1,4 @@
-# Carnet de voyages
+# Voyages - Carnet 
 
 - Tokyo
 - New York
