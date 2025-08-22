@@ -1,4 +1,4 @@
-# Voyages - Carnet 
+# Voici la liste collaborative de voyages
 
 - Tokyo
 - New York
