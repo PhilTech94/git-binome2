@@ -3,6 +3,5 @@
 - Tokyo
 - New York
 - Marrakech
-- Istanbul
 
 Ville : Paris
